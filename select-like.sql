@@ -1,0 +1,1 @@
+select * from `db_senac`.`tbl_pessoas` where `email` like '%provedor%';
